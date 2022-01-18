@@ -1,0 +1,15 @@
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\Classe.exe
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\Classe.deps.json
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\Classe.runtimeconfig.json
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\Classe.dll
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\ref\Classe.dll
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\bin\Debug\net6.0\Classe.pdb
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.AssemblyInfoInputs.cache
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.AssemblyInfo.cs
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.dll
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\ref\Classe.dll
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.pdb
+C:\Users\eduar\Downloads\#C Dio\Classe\Classe\obj\Debug\net6.0\Classe.genruntimeconfig.cache
