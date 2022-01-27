@@ -1,0 +1,15 @@
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.exe
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.deps.json
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\bin\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.dll
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ref\ExemploConstrutores.dll
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.pdb
+C:\Users\eduar\Downloads\#C Dio\ExemploConstrutores\ExemploConstrutores\obj\Debug\net6.0\ExemploConstrutores.genruntimeconfig.cache
